@@ -3,7 +3,7 @@
 Team Members:
 - [Cheuk Yan Fung (Pi)](github link)
 - [Seyed Abdolhamid Banihashemi](https://github.com/sabani1998)
-- [Sepehr Mohammadkhani](github link)
+- [Sepehr Mohammadkhani](https://github.com/SeperMan-late)
 
 
 
