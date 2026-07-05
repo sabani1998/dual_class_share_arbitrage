@@ -27,5 +27,7 @@ Numpy, Pandas, Scikit-Learn, Matplotlib, YFinance, Statmodels
 ## Contact
 
 Cheuk Yan Fung (Pi) - [email]
+
 Seyed Abdolhamid Banihashemi - sabani@umd.edu
+
 Sepehr Mohammadkhani - [email]
