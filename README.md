@@ -1,7 +1,7 @@
 # Dual-Class Share Arbitrage
 
 Team Members:
-- [Cheuk Yan Fung (Pi)](github link)
+- [Cheuk Yan Fung (Pi)](https://github.com/pi31415pi)
 - [Seyed Abdolhamid Banihashemi](https://github.com/sabani1998)
 - [Sepehr Mohammadkhani](https://github.com/SeperMan-late)
 
@@ -31,8 +31,8 @@ Numpy, Pandas, Scikit-Learn, Matplotlib, YFinance, Statmodels
 
 ## Contact
 
-Cheuk Yan Fung (Pi) - [email]
+Cheuk Yan Fung (Pi) - pifung@terpmail.umd.edu
 
 Seyed Abdolhamid Banihashemi - sabani@umd.edu
 
-Sepehr Mohammadkhani - [email]
+Sepehr Mohammadkhani - seperman@umd.edu
